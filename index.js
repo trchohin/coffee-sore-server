@@ -12,6 +12,8 @@ app.use(express.json())
 //coffee_monster
 //t56sr7QwNqOPBlcd
 
+// DB_USER = "coffee_monster"
+// DB_PASS = "t56sr7QwNqOPBlcd"
 
  
 
